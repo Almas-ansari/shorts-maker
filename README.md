@@ -29,7 +29,7 @@ binary, and the code points yt-dlp at it too.
 ## Setup
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Almas-ansari/shorts-maker
 cd shorts-maker
 ./setup.sh
 ```
