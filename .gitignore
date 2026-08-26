@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded source footage, TTS audio, subtitle files, temp renders
+work/
+
+# Generated videos
+output/
+
+# Your own narration text and saved UI settings -- personal content, not code
+texts.json
+ui_defaults.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,5 @@
+# Everything runs locally. No API keys, no paid services, no LLM.
+edge-tts==7.2.8         # free Microsoft Edge TTS voices (no key)
+imageio-ffmpeg==0.6.0   # ships a static ffmpeg binary, no system install
+streamlit==1.62.0       # web UI
+yt-dlp==2026.8.19       # YouTube / URL downloads
